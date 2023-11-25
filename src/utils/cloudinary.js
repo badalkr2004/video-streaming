@@ -31,7 +31,4 @@ const uploadOnCloudinary = async (locaFilePath) =>{
 
 }
 
-
-
-
-  export {uploadOnCloudinary}
+export {uploadOnCloudinary}
